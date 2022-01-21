@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JOY&fontAlign=70&rotate=13&fontAlignY=25&desc=Hi%20Welcome%20to%20My%20Github.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JOY&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello!%20Welcome%20to%20JOY's%20Github.&descAlign=70.&descAlignY=44)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
