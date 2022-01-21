@@ -1,4 +1,3 @@
-## JOY <a id="slice">
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JOY&fontAlign=70&rotate=13&fontAlignY=25&desc=Hi%20Welcome%20to%20My%20Github.&descAlign=70.&descAlignY=44)
 
 <p align="center">
