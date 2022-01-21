@@ -1,5 +1,5 @@
 ## JOY <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=Hi%20Welcome%20to%20My%20Github.&descAlign=70.&descAlignY=44)
+![JOY](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=Hi%20Welcome%20to%20My%20Github.&descAlign=70.&descAlignY=44)
 
 - 👋 Hi, I’m @26JOY
 - 👀 I’m interested in Visual Question Answering
